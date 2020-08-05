@@ -34,6 +34,9 @@ button{
     border-radius: 4px;
     border: 2px solid rgb(231, 193, 87);
 }
+button:focus{
+    outline: none;
+}
 button:hover{
     background-color: rgb(231, 193, 87);
     color: black;
