@@ -36,6 +36,7 @@ button{
 }
 
 button:focus{
+    background-color: green;
     outline: none;
 }
 
