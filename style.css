@@ -37,12 +37,13 @@ button{
 
 button:focus{
     background-color: green;
-    outline: none;
+    outline: green;
 }
 
+/*
 button:focus:hover{
     background-color: green;
-}
+}*/
 
 button:hover{
     background-color: rgb(231, 193, 87);
